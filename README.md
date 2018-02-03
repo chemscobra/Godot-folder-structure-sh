@@ -21,3 +21,5 @@ If you have another structure you wanna add feel free to include it here :)
 
 
 the src folder is where the main godot project will be when you create it in GODOT
+
+you must have git installed
