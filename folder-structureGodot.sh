@@ -22,6 +22,8 @@ yes a game made with godot" >> README.md
 
 git init
 
+rm $0
+
 
 
 
