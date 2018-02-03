@@ -3,7 +3,7 @@ mkdir -p {raw_assets,builds,src}
 touch {.gitignore,README.md}
 
 echo "# Godot-specific ignores
-**.import/
+*.import/
 export.cfg
 export_presets.cfg" >> .gitignore
 
